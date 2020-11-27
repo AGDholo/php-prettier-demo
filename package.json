@@ -1,0 +1,15 @@
+{
+  "name": "php-prettier-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.16.0",
+    "prettier": "^2.2.0"
+  }
+}
